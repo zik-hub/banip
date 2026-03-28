@@ -18,9 +18,3 @@ This list is generated automatically based on detected network attacks.
 - **Use at your own risk.** - The author is not responsible for any network connectivity issues caused by blocking these IPs.
 - If you believe your IP was blocked by mistake (False Positive), please open an **Issue** in this repository for manual review.
 
-## 🛠️ Integration
-You can use this list to supplement your firewall rules in:
-* pfSense / OPNsense
-* MikroTik (Address Lists)
-* Fail2Ban
-* PeerBlock / IPFilter
